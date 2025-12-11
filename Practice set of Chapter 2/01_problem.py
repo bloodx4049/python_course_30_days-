@@ -1,0 +1,9 @@
+a = 2
+
+b = 4 
+
+print(a +b)
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("The sum is:", a + b)
